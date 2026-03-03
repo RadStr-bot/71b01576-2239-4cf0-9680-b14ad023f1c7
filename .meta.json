@@ -1,0 +1,21 @@
+{
+  "iri": "71b01576-2239-4cf0-9680-b14ad023f1c7",
+  "projectIri": "71b01576-2239-4cf0-9680-b14ad023f1c7",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "pcgk"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-03-03T21:26:13.691Z",
+    "modificationDate": "2026-03-03T21:27:21.333Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-03T21:27:25.491Z",
+  "_exportedBy": "http://localhost:3100"
+}
